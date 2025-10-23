@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Introduction to .NET Programming\\Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AD379E-A72D-44EF-AC3D-2E45A2649BAF}|Project 2 Example\\Project 2.csproj|C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Introduction to .NET Programming\\Project 2\\project 2 example\\frmpricecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AD379E-A72D-44EF-AC3D-2E45A2649BAF}|Project 2 Example\\Project 2.csproj|solutionrelative:project 2 example\\frmpricecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AD379E-A72D-44EF-AC3D-2E45A2649BAF}|Project 2 Example\\Project 2.csproj|c:\\users\\clutc\\desktop\\x\\college\\.net programming\\introduction to .net programming\\project 2\\project 2 example\\frmpricecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AD379E-A72D-44EF-AC3D-2E45A2649BAF}|Project 2 Example\\Project 2.csproj|solutionrelative:project 2 example\\frmpricecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPriceCar.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Introduction to .NET Programming\\Project 2\\Project 2 Example\\frmPriceCar.cs",
+              "RelativeDocumentMoniker": "Project 2 Example\\frmPriceCar.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Introduction to .NET Programming\\Project 2\\Project 2 Example\\frmPriceCar.cs",
+              "RelativeToolTip": "Project 2 Example\\frmPriceCar.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:58:59.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPriceCar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Introduction to .NET Programming\\Project 2\\Project 2 Example\\frmPriceCar.cs",
+              "RelativeDocumentMoniker": "Project 2 Example\\frmPriceCar.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\.NET Programming\\Introduction to .NET Programming\\Project 2\\Project 2 Example\\frmPriceCar.cs [Design]",
+              "RelativeToolTip": "Project 2 Example\\frmPriceCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:56:52Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
